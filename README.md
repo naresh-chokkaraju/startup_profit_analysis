@@ -37,3 +37,6 @@ Python, Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook, Power BI
 
 - <img width="1920" height="1080" alt="startup_profit_dashboard" src="https://github.com/user-attachments/assets/b819c25d-ab44-4de1-ab41-3cf20dad8e88" />
 
+
+<img width="1323" height="745" alt="startup_profit_dashboard_cropped" src="https://github.com/user-attachments/assets/6cb0419e-0cfe-408d-ae6c-fa2f564012a7" />
+
